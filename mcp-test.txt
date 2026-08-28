@@ -1,0 +1,4 @@
+Hello from MCP!
+This file was uploaded via the remotecontiner MCP running on a Cloudflare Worker.
+No git CLI, no shell — just the GitHub REST API through http_request.
+Timestamp: 2026-08-28
